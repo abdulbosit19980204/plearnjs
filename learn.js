@@ -21,3 +21,5 @@ primaryBtn.addEventListener('click', function() {
 submit.addEventListener('click', function() {
     text.styly.fontsize = '100'
 })
+
+/*sncncsd dscjknjscn sdcjknsdjcmn sdcdjknsdcdmn sdcdnsndc */
